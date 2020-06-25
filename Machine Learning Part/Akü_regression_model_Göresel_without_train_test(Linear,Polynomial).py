@@ -61,14 +61,6 @@ plt.ylabel("Estimated Time")
 plt.title("Polynominal Regression (Degree = 6)")
 plt.show()
 
-from sklearn.ensemble import RandomForestRegressor 
-rf_reg = RandomForestRegressor(n_estimators = 500, random_state=0) 
-rf_reg.fit(X,Y) 
-plt.scatter(X,Y, color = 'red') 
-plt.plot(x,rf_reg.predict(X), color ='blue') 
-plt.xlabel("Battery Percent (%)") 
-plt.ylabel("Estimated Time (sec)") 
-plt.title("Random Forest Regression")
 
 
 
