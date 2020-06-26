@@ -17,5 +17,8 @@ Keywords: Energy; UPS battery charge; LLC resonant converter; regression models
 ### Model Comparison
 ![Model Comparison](https://user-images.githubusercontent.com/22428774/85804716-fdb63700-b752-11ea-85fe-aa387b46c42f.PNG)
 
+### Random Forest Score After Optimization Code
+![Random_Forest_skorlar](https://user-images.githubusercontent.com/22428774/85859232-8c639c00-b7c5-11ea-8f17-6b46b6d69a3d.PNG)
+
 ### Regression Models Visualization
-![Regression Model Visualizations](https://user-images.githubusercontent.com/22428774/85804365-1ffb8500-b752-11ea-9894-d03d58e4827b.png)
+![Regression Model Visualizations](https://user-images.githubusercontent.com/22428774/85859205-866dbb00-b7c5-11ea-9daf-69a2182f1d08.png)
