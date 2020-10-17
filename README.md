@@ -5,7 +5,7 @@ In this project, an optimal design procedure of inductor-inductor-capacitor (LLC
 
 Keywords: Energy; UPS battery charge; LLC resonant converter; regression models
 
-https://www.youtube.com/watch?v=KwHaqaDpCxg&t=8s
+
 
 ### Simulation
 ![Simulation_Image](https://user-images.githubusercontent.com/22428774/85795226-9f805880-b740-11ea-9a6c-ff8e68a1cda6.PNG)
@@ -24,5 +24,3 @@ https://www.youtube.com/watch?v=KwHaqaDpCxg&t=8s
 
 ### Regression Models Visualization
 ![Regression Model Visualizations](https://user-images.githubusercontent.com/22428774/85859205-866dbb00-b7c5-11ea-9daf-69a2182f1d08.png)
-
-[](url)
