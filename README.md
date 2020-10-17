@@ -22,3 +22,5 @@ Keywords: Energy; UPS battery charge; LLC resonant converter; regression models
 
 ### Regression Models Visualization
 ![Regression Model Visualizations](https://user-images.githubusercontent.com/22428774/85859205-866dbb00-b7c5-11ea-9daf-69a2182f1d08.png)
+
+[https://www.youtube.com/watch?v=KwHaqaDpCxg&t=8s](url)
